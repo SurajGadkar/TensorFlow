@@ -7,9 +7,9 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * Facilitated distributed training
 * TF Data
 * TF SavedModel
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
+* TensorFlow hub
+* TensorFlow serving
+* TensorFlow lite
 * TensorFlow.js
 * Tidying up the API
 * The conversion tool
